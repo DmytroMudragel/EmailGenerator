@@ -1,0 +1,5 @@
+E:\C#\EmailGenerator\bin\Release\net6.0\publish\EmailGenerator.exe
+E:\C#\EmailGenerator\bin\Release\net6.0\publish\EmailGenerator.dll
+E:\C#\EmailGenerator\bin\Release\net6.0\publish\EmailGenerator.deps.json
+E:\C#\EmailGenerator\bin\Release\net6.0\publish\EmailGenerator.runtimeconfig.json
+E:\C#\EmailGenerator\bin\Release\net6.0\publish\EmailGenerator.pdb

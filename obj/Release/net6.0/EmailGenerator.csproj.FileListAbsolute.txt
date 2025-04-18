@@ -1,0 +1,15 @@
+E:\C#\EmailGenerator\bin\Release\net6.0\EmailGenerator.exe
+E:\C#\EmailGenerator\bin\Release\net6.0\EmailGenerator.deps.json
+E:\C#\EmailGenerator\bin\Release\net6.0\EmailGenerator.runtimeconfig.json
+E:\C#\EmailGenerator\bin\Release\net6.0\EmailGenerator.dll
+E:\C#\EmailGenerator\bin\Release\net6.0\EmailGenerator.pdb
+E:\C#\EmailGenerator\obj\Release\net6.0\EmailGenerator.csproj.AssemblyReference.cache
+E:\C#\EmailGenerator\obj\Release\net6.0\EmailGenerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\EmailGenerator\obj\Release\net6.0\EmailGenerator.AssemblyInfoInputs.cache
+E:\C#\EmailGenerator\obj\Release\net6.0\EmailGenerator.AssemblyInfo.cs
+E:\C#\EmailGenerator\obj\Release\net6.0\EmailGenerator.csproj.CoreCompileInputs.cache
+E:\C#\EmailGenerator\obj\Release\net6.0\EmailGenerator.dll
+E:\C#\EmailGenerator\obj\Release\net6.0\refint\EmailGenerator.dll
+E:\C#\EmailGenerator\obj\Release\net6.0\EmailGenerator.pdb
+E:\C#\EmailGenerator\obj\Release\net6.0\EmailGenerator.genruntimeconfig.cache
+E:\C#\EmailGenerator\obj\Release\net6.0\ref\EmailGenerator.dll
